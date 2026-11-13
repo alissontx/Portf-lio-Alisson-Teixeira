@@ -1,0 +1,1 @@
+Coloca aqui as tuas fotografias. No index.html, substitui os blocos .placeholder por imagens tuas. Sugestão: retrato vertical na abertura e fotografia espontânea na secção Quem sou.
